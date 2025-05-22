@@ -52,9 +52,9 @@ Merhaba! Ben **Emre Serdar KAYA**. 2007 yılından bu yana **sistem destek, veri
 
 ## 📫 İletişim
 
-- ✉️ **E-posta:** [ornek@email.com](mailto:ornek@email.com)  
-- 🌐 **LinkedIn:** [Profil Adınız](LINKINIZ)  
-- 🐦 **Twitter:** [@KULLANICIADI](LINKINIZ)  
+- ✉️ **E-posta:** [info@emreserdarkaya.com.tr](mailto:info@emreserdarkaya.com.tr)  
+- 🌐 **LinkedIn:** [Emre Serdar KAYA](LINKINIZ)  
+- 🐦 **Twitter:** [@DeveloTETH](LINKINIZ)  
 
 ---
 
