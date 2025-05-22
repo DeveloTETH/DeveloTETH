@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emre_Serdar_KAYA-blue?style=flat&logo=linkedin)](LINKINIZ) 
 [![Twitter](https://img.shields.io/badge/Twitter-@KULLANICIADI-lightblue?style=flat&logo=twitter)](LINKINIZ)
-[![Website](https://img.shields.io/badge/Website-Kişisel_Siteniz-green?style=flat&logo=google-chrome)](LINKINIZ)
+[![Website](https://img.shields.io/badge/Website-Kişisel_Siteniz-green?style=flat&logo=google-chrome)](https://www.emreserdarkaya.com.tr)
 
 **Sistem Destek Uzmanı | Veritabanı Yöneticisi | Yazılımcı**  
 📍 Türkiye | 🎂 2007'den beri sektörde
