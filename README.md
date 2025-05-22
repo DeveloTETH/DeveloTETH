@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Hakkımda
 
-Merhaba! Ben **Emre Serdar KAYA**. 2007 yılından bu yana **sistem destek, veritabanı yönetimi** ve yazılım geliştirme alanlarında çalışıyorum. Teknolojiye olan tutkum ve problem çözme yeteneğimle, karmaşık sistemleri optimize edip verimli çözümler üretmeye odaklanıyorum.
+Merhaba! Ben **Emre Serdar KAYA**. 2007 yılından bu yana **sistem destek, veritabanı yönetimi ve yazılım geliştirme** alanlarında çalışıyorum. Teknolojiye olan tutkum ve problem çözme yeteneğimle, karmaşık sistemleri optimize edip verimli çözümler üretmeye odaklanıyorum.
 
 - 🔧 **Uzmanlık Alanları:**  
   - Veritabanı Yönetimi (SQL Server, MySQL, PostgreSQL)  
