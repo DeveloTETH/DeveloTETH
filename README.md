@@ -46,7 +46,7 @@ Merhaba! Ben **Emre Serdar KAYA**. 2007 yılından bu yana **sistem destek, veri
 
 ## 📈 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADI&show_icons=true&theme=radical&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloTETH&show_icons=true&theme=radical&hide_title=true)
 
 ---
 
