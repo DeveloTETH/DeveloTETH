@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-Kişisel_Siteniz-green?style=flat&logo=google-chrome)](https://www.emreserdarkaya.com.tr)
 
 **Sistem Destek Uzmanı | Veritabanı Yöneticisi | Yazılımcı**  
-📍 Türkiye | 🎂 2007'den beri sektörde
+📍 Türkiye & Rusya | 🎂 2007'den beri sektörde
 
 ---
 
