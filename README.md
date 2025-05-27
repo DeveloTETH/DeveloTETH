@@ -1,7 +1,7 @@
 # Emre Serdar KAYA 💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emre_Serdar_KAYA-blue?style=flat&logo=linkedin)](LINKINIZ) 
-[![Twitter](https://img.shields.io/badge/Twitter-@KULLANICIADI-lightblue?style=flat&logo=twitter)](LINKINIZ)
+[![Twitter](https://img.shields.io/badge/Twitter-@ESerdarKAYA-lightblue?style=flat&logo=twitter)](LINKINIZ)
 [![Website](https://img.shields.io/badge/Website-www.emreserdarkaya.com.tr-green?style=flat&logo=google-chrome)](https://www.emreserdarkaya.com.tr)
 
 **Sistem Destek Uzmanı | Veritabanı Yöneticisi | Yazılımcı**  
