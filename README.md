@@ -36,7 +36,7 @@ Merhaba! Ben **Emre Serdar KAYA**. 2007 yılından bu yana **sistem destek, veri
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-007396?style=for-the-badge&logo=PHP&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-004354?style=for-the-badge&logo=PHP&logoColor=white)
 
 ### ☁️ Bulut & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
