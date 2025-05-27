@@ -16,7 +16,7 @@ Merhaba! Ben **Emre Serdar KAYA**. 2007 yılından bu yana **sistem destek, veri
 - 🔧 **Uzmanlık Alanları:**  
   - Veritabanı Yönetimi (SQL Server, MySQL, PostgreSQL)  
   - Sistem Entegrasyonu & Otomasyon  
-  - Backend Geliştirme (C#, Python, Java, PHP, JavaScript, Node.js)
+  - Backend Geliştirme (C#, Python, Java, PHP, TypeScript, JavaScript, Node.js)
   - Frameworks (React.js, Angular, Laravel, CodeIgniter, Django, Express.js, NestJS)
   - Bulut Çözümleri (AWS, Azure)  
 
