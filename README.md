@@ -1,6 +1,6 @@
 # Emre Serdar KAYA 💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emre_Serdar_KAYA-blue?style=flat&logo=linkedin)](LINKINIZ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emre_Serdar_KAYA-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/emre-serdar-kaya-626944b0) 
 [![Twitter](https://img.shields.io/badge/Twitter-@ESerdarKAYA-lightblue?style=flat&logo=twitter)](LINKINIZ)
 [![Website](https://img.shields.io/badge/Website-www.emreserdarkaya.com.tr-green?style=flat&logo=google-chrome)](https://www.emreserdarkaya.com.tr)
 
